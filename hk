@@ -1,4 +1,4 @@
 {
-  "search": "3f ae 47 81 3f 00 1a b7 ee dc 3a 9f ed 30 00 4f e2 43 2a b0 ee ef 0a 60 f4 43 6a f0 ee 1c 00 8a e2 43 5a f0 ee 8f 0a 48 f4 43 2a f0 ee 43 7a b0 ee 8f 0a 40 f4 41 aa b0",
-  "replace": "bf ae 47 81 3f 00 1a b7 ee dc 3a 9f ed 30 00 4f e2 43 2a b0 ee ef 0a 60 f4 43 6a f0 ee 1c 00 8a e2 43 5a f0 ee 8f 0a 48 f4 43 2a f0 ee 43 7a b0 ee 8f 0a 40 f4 41 aa b0"
+  "search": "3F AE 47 81 3F 00 1A B7 EE DC 3A 9F ED 30",
+  "replace": "BF AE 47 81 3F 00 1A B7 EE DC 3A 9F ED 30"
 }
