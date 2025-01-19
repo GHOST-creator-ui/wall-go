@@ -1,4 +1,4 @@
 {
-  "search": "3F AE 47 81 3F 00 1A B7 EE DC 3A 9F ED 30",
-  "replace": "BF AE 47 81 3F 00 1A B7 EE DC 3A 9F ED 30"
+  "search": "10 03 94 75 09 0E 00 00 80 3F 00 00 80 3F 00 00 00 00 00 00",
+  "replace": "3F 3F 3F 3F 09 0E 00 00 A1 C1 00 00 80 3F 00 00 00 00 00 00"
 }
